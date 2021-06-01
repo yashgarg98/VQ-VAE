@@ -14,3 +14,11 @@ prior, again weights are given "vqvae_pixelcnn_prior_65.pth" (refer the given no
 </br ></br >
 Reconstruction of images using VQVAE model.
 </br >
+Image on left is a recontruction for original image on right.
+</br >
+![vqvae_reconstruction](https://user-images.githubusercontent.com/39181807/120303427-72430f80-c2ec-11eb-952b-6a9872cc3df1.png)
+![vqvae_original](https://user-images.githubusercontent.com/39181807/120303443-7838f080-c2ec-11eb-9d48-ef24174c488f.png)
+</br ></br >
+Random images generated using the pixelCNN prior.
+</br >
+![sample1](https://user-images.githubusercontent.com/39181807/120303839-d82f9700-c2ec-11eb-8306-e43e27cf2810.png)
